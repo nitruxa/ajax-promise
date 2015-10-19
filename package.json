@@ -1,0 +1,42 @@
+{
+  "name": "ajax-promise",
+  "version": "0.8.1",
+  "description": "Ajax with Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajax",
+    "promise"
+  ],
+  "author": {
+    "name": "Sunny Hirai"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bluebird": "~2.3.11",
+    "jquery": "~2.1.1"
+  },
+  "_id": "ajax-promise@0.8.1",
+  "dist": {
+    "shasum": "1e558cce6e856643097eae811a4de89547ea7ef6",
+    "tarball": "http://npm.intranet.1stdibs.com:4783/ajax-promise/-/ajax-promise-0.8.1.tgz"
+  },
+  "_from": "ajax-promise@>=0.8.1 <0.9.0",
+  "_npmVersion": "1.3.14",
+  "_npmUser": {
+    "name": "thesunny",
+    "email": "thesunny@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "thesunny",
+      "email": "thesunny@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "1e558cce6e856643097eae811a4de89547ea7ef6",
+  "_resolved": "http://npm.intranet.1stdibs.com:4783/ajax-promise/-/ajax-promise-0.8.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
